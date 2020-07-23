@@ -9,7 +9,7 @@ Main Functions:
 
 Technologies Applied:
 ---------------------
-1- Using CocoaPods Like : 'SwiftyJSON', 'Alamofire','SVProgressHUD'.
+1- Using CocoaPods Like : 'SwiftyJSON', 'Alamofire', 'SVProgressHUD'.
 
 2- Implementing "CoreLocation" Framework To Manipulate The GPS Services, And The "CLLocationManagerDelegate".
 
