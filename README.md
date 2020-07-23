@@ -4,6 +4,7 @@
 Main Functions:
 ---------------
 -The Clima App Gets You The Weather Based On Where You Are.
+
 -And There's Another Search Bar That User's Can Use To Get The Weather Info In Any Country Or City In The World.
 
 Technologies Applied:
