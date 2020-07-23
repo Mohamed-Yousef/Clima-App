@@ -23,6 +23,6 @@ Technologies Applied:
 
 7- Implementing "Protocol Oriented Programming" Paradigm.
 
-App Demo Video:
+App's Demo Video:
 ---------------
 https://drive.google.com/file/d/1JXqBXs6yG2UJzcGPxKG0UocHWrikjJN6/view?usp=sharing
